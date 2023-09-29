@@ -1,5 +1,5 @@
 # AnimationSample
-### Hosted Link: 
+### Hosted Link: https://divyanshrajpoot9.github.io/AnimationSample/
 ### HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. 
 ### Brief description of some of the most commonly used HTML tags:
 
@@ -65,5 +65,5 @@
 
 These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages.
 
-
+![Screenshot 2023-09-29 170929](https://github.com/divyanshrajpoot9/AnimationSample/assets/114856467/f47c246e-e844-4565-a87f-1fc50214224c)
 
